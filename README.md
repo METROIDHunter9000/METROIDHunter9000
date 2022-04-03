@@ -2,5 +2,5 @@ Senior Computer Science student. Studying Rust and Vulkan and eternally seeking 
 
 Find me and more of my work online at
 
-- Bitbucket: https://bitbucket.org/account/settings/
+- Bitbucket: https://bitbucket.org/METROIDHunter_/
 - Sourcehut: https://sr.ht/~metroidhunter_/
