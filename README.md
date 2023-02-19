@@ -1,4 +1,4 @@
-Senior Computer Science student. Studying Rust and Vulkan and eternally seeking the perfect Linux setup. (Also seeking employment)
+Recent North Carolina State University graduate. I love software development and I've especially got a passion for Linux, Rust, and open-source programming.
 
 Find me and more of my work online at
 
